@@ -5,7 +5,7 @@ I'm 16 years old learning JavaScript.I'm a student at SoftUni.
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/S7R4NGER3301](https://github.com/S7R4NGER3301)
+- 👨‍💻 All of my projects are available at [https://github.com/S7R4NGER1337](https://github.com/S7R4NGER1337)
 
 - 💬 Ask me about **JavaScript**
 
@@ -15,7 +15,7 @@ I'm 16 years old learning JavaScript.I'm a student at SoftUni.
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s7r4nger3301&show_icons=true&locale=en&layout=compact" alt="s7r4nger3301" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s7r4nger1337&show_icons=true&locale=en&layout=compact" alt="s7r4nger1337" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s7r4nger3301&show_icons=true&locale=en" alt="s7r4nger3301" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s7r4nger1337&show_icons=true&locale=en" alt="s7r4nger1337" /></p>
