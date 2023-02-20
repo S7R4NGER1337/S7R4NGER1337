@@ -19,3 +19,4 @@ I'm 16 years old learning JavaScript.I'm a student at SoftUni.
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s7r4nger1337&show_icons=true&locale=en" alt="s7r4nger1337" /></p>
+
