@@ -3,7 +3,7 @@
 
 I'm 16 years old learning JavaScript.I'm a student at SoftUni.
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**, **TypeScript** and **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/S7R4NGER1337](https://github.com/S7R4NGER1337)
 
